@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayeshchoudhary
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Front End Development, ReactJs, 
 - 🌱 I’m currently learning React Js and Nodejs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me jayeshchoudhary619@gmail.com
 
 <!---

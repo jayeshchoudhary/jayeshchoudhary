@@ -1,10 +1,4 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="25px">
-<a href="https://www.linkedin.com/in/jayesh-choudhary-2503/">
-  <img align="left" alt="Jayesh's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Jayesh's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=jayeshchoudhary&label=Profile+Visitors&color=blue" alt="Jayesh Choudhary" /> 
 
